@@ -1,0 +1,46 @@
+
+
+
+canvas{
+    border: 2px solid black;
+    position:relative;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: white;
+}
+
+body{
+    margin: 10;
+    background-color: aquamarine;
+}
+
+#algorithms{
+    position: relative;
+    left: 730px;
+    top: 10px;
+   
+}
+
+#animationSlider{
+    position: relative;
+}
+
+
+.under{
+    width: 100px;
+    position: relative;
+    border:none;
+    left: 450px;
+    top: 20px;
+  
+    cursor: pointer;
+    padding: 10px 24px;
+    font-size: 10px;
+   
+ 
+}
+
+
